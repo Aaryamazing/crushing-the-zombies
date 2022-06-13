@@ -1,1 +1,1 @@
-# crushing-the-zombies 1
+# crushing-the-zombies
